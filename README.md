@@ -14,24 +14,39 @@ Play PTT with JavaScript
   "articles": [
     {
       "title": "[尋人] 桃園中壢 黑色外套 老婦人 失智症走失",
-      "date": 1454169600000,
-      "author": "muse1628",
+      "date": "Sun 31 Jan 2016 03:56:44 GMT",
+      "author": [
+        {     
+          "email":"muse1628.bbs@ptt.cc",
+          "name": "muse1628"
+        }
+      ],
       "push": 27,
-      "url": "https://www.ptt.cc/bbs/Gossiping/M.1454212604.A.183.html"
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1454212604.A.183.html"
     },
     {
       "title": "[尋人] 台中50歲婦人",
-      "date": 1454169600000,
-      "author": "BleuCiel69",
+      "date": "Sun 31 Jan 2016 11:27:25 GMT",
+      "author": [
+        {     
+          "email":"BleuCiel69.bbs@ptt.cc",
+          "name": "BleuCiel69"
+        }
+      ],
       "push": 28,
-      "url": "https://www.ptt.cc/bbs/Gossiping/M.1454239645.A.D72.html"
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1454239645.A.D72.html"
     },
     {
       "title": "[公告] 一月置底閒聊區 訟棍出沒請詳閱#1MgRnxwZ",
-      "date": 1451750400000,
-      "author": "Leeng",
+      "date": "Sun 3 Jan 2016 10:55:09 GMT",
+      "author": [
+        {     
+          "email":"Leeng.bbs@ptt.cc",
+          "name": "Leeng"
+        }
+      ],
       "push": 19,
-      "url": "https://www.ptt.cc/bbs/Gossiping/M.1451818509.A.5BD.html"
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1451818509.A.5BD.html"
     }
   ]
 }
