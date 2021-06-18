@@ -19,7 +19,7 @@ describe('Articles (Board)', () => {
           article.should.have.property('date');
           article.should.have.property('author');
           article.should.have.property('push');
-          article.should.have.property('url');
+          article.should.have.property('link');
         });
 
         done();
