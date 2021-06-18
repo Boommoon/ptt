@@ -21,8 +21,8 @@
   "homepage": "https://github.com/imZack/ptt#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "cheerio": "^0.22.0",
     "debug": "^3.0.1",
+    "node-html-parser": "^3.3.5",
     "request": "^2.81.0",
     "request-promise": "^4.2.1"
   },
