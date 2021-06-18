@@ -18,6 +18,11 @@ describe('Articles (Board)', () => {
           article.should.have.property('title');
           article.should.have.property('date');
           article.should.have.property('author');
+          article.author.should.have.be.a.Array;
+          article.author.forEach((author) => {
+            author.should.have.property('name');
+            author.should.have.property('email');
+          });
           article.should.have.property('push');
           article.should.have.property('link');
         });
